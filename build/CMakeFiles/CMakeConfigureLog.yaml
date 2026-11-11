@@ -28,6 +28,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/bin/"
       - "/usr/lib/jvm/default/bin/"
@@ -46,6 +47,7 @@ events:
       - "/home/hypr/.cargo/bin/uname"
       - "/home/lilarchie/.bun/bin/uname"
       - "/home/hypr/.spicetify/uname"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/uname"
       - "/usr/local/sbin/uname"
     found: "/usr/bin/uname"
     search_context:
@@ -58,6 +60,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -114,6 +117,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/bin/"
       - "/usr/lib/jvm/default/bin/"
@@ -131,6 +135,7 @@ events:
       - "/home/hypr/.cargo/bin/gmake"
       - "/home/lilarchie/.bun/bin/gmake"
       - "/home/hypr/.spicetify/gmake"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gmake"
       - "/usr/local/sbin/gmake"
       - "/usr/bin/gmake"
       - "/usr/lib/jvm/default/bin/gmake"
@@ -147,6 +152,7 @@ events:
       - "/home/hypr/.cargo/bin/make"
       - "/home/lilarchie/.bun/bin/make"
       - "/home/hypr/.spicetify/make"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/make"
       - "/usr/local/sbin/make"
     found: "/usr/bin/make"
     search_context:
@@ -159,6 +165,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -216,6 +223,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/bin/"
       - "/usr/lib/jvm/default/bin/"
@@ -233,6 +241,7 @@ events:
       - "/home/hypr/.cargo/bin/c++"
       - "/home/lilarchie/.bun/bin/c++"
       - "/home/hypr/.spicetify/c++"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/c++"
       - "/usr/local/sbin/c++"
     found: "/usr/bin/c++"
     search_context:
@@ -245,6 +254,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -300,6 +310,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -371,6 +382,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -389,6 +401,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -438,6 +451,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -456,6 +470,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -505,6 +520,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -523,6 +539,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -572,6 +589,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -590,6 +608,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -639,6 +658,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -657,6 +677,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -706,6 +727,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -724,6 +746,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -773,6 +796,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -791,6 +815,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -840,6 +865,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -858,6 +884,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -907,6 +934,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -924,6 +952,7 @@ events:
       - "/home/hypr/.cargo/bin/dlltool"
       - "/home/lilarchie/.bun/bin/dlltool"
       - "/home/hypr/.spicetify/dlltool"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/dlltool"
       - "/usr/local/sbin/dlltool"
       - "/usr/lib/jvm/default/bin/dlltool"
       - "/usr/bin/site_perl/dlltool"
@@ -942,6 +971,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -991,6 +1021,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -1009,6 +1040,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -1058,6 +1090,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -1075,6 +1108,7 @@ events:
       - "/home/hypr/.cargo/bin/tapi"
       - "/home/lilarchie/.bun/bin/tapi"
       - "/home/hypr/.spicetify/tapi"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/tapi"
       - "/usr/local/sbin/tapi"
       - "/usr/lib/jvm/default/bin/tapi"
       - "/usr/bin/site_perl/tapi"
@@ -1093,6 +1127,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -1145,6 +1180,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -1162,6 +1198,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ar-16.2"
       - "/home/lilarchie/.bun/bin/gcc-ar-16.2"
       - "/home/hypr/.spicetify/gcc-ar-16.2"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ar-16.2"
       - "/usr/local/sbin/gcc-ar-16.2"
       - "/usr/lib/jvm/default/bin/gcc-ar-16.2"
       - "/usr/bin/site_perl/gcc-ar-16.2"
@@ -1178,6 +1215,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ar-16"
       - "/home/lilarchie/.bun/bin/gcc-ar-16"
       - "/home/hypr/.spicetify/gcc-ar-16"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ar-16"
       - "/usr/local/sbin/gcc-ar-16"
       - "/usr/lib/jvm/default/bin/gcc-ar-16"
       - "/usr/bin/site_perl/gcc-ar-16"
@@ -1194,6 +1232,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ar16"
       - "/home/lilarchie/.bun/bin/gcc-ar16"
       - "/home/hypr/.spicetify/gcc-ar16"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ar16"
       - "/usr/local/sbin/gcc-ar16"
       - "/usr/lib/jvm/default/bin/gcc-ar16"
       - "/usr/bin/site_perl/gcc-ar16"
@@ -1212,6 +1251,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -1264,6 +1304,7 @@ events:
       - "/home/hypr/.cargo/bin/"
       - "/home/lilarchie/.bun/bin/"
       - "/home/hypr/.spicetify/"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/"
       - "/usr/local/sbin/"
       - "/usr/lib/jvm/default/bin/"
       - "/usr/bin/site_perl/"
@@ -1281,6 +1322,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ranlib-16.2"
       - "/home/lilarchie/.bun/bin/gcc-ranlib-16.2"
       - "/home/hypr/.spicetify/gcc-ranlib-16.2"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ranlib-16.2"
       - "/usr/local/sbin/gcc-ranlib-16.2"
       - "/usr/lib/jvm/default/bin/gcc-ranlib-16.2"
       - "/usr/bin/site_perl/gcc-ranlib-16.2"
@@ -1297,6 +1339,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ranlib-16"
       - "/home/lilarchie/.bun/bin/gcc-ranlib-16"
       - "/home/hypr/.spicetify/gcc-ranlib-16"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ranlib-16"
       - "/usr/local/sbin/gcc-ranlib-16"
       - "/usr/lib/jvm/default/bin/gcc-ranlib-16"
       - "/usr/bin/site_perl/gcc-ranlib-16"
@@ -1313,6 +1356,7 @@ events:
       - "/home/hypr/.cargo/bin/gcc-ranlib16"
       - "/home/lilarchie/.bun/bin/gcc-ranlib16"
       - "/home/hypr/.spicetify/gcc-ranlib16"
+      - "/home/lilarchie/.local/share/nvim/mason/bin/gcc-ranlib16"
       - "/usr/local/sbin/gcc-ranlib16"
       - "/usr/lib/jvm/default/bin/gcc-ranlib16"
       - "/usr/bin/site_perl/gcc-ranlib16"
@@ -1331,6 +1375,7 @@ events:
         - "/home/hypr/.cargo/bin"
         - "/home/lilarchie/.bun/bin"
         - "/home/hypr/.spicetify"
+        - "/home/lilarchie/.local/share/nvim/mason/bin"
         - "/home/lilarchie/.cargo/bin"
         - "/home/lilarchie/.local/bin"
         - "/home/lilarchie/bin"
@@ -1360,8 +1405,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u"
-      binary: "/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u"
+      source: "/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm"
+      binary: "/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1372,13 +1417,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u'
+        Change Dir: '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9dbcb/fast
-        /usr/bin/make  -f CMakeFiles/cmTC_9dbcb.dir/build.make CMakeFiles/cmTC_9dbcb.dir/build
-        make[1]: Entering directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u'
-        Building CXX object CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_06376/fast
+        /usr/bin/make  -f CMakeFiles/cmTC_06376.dir/build.make CMakeFiles/cmTC_06376.dir/build
+        make[1]: Entering directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm'
+        Building CXX object CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         Target: x86_64-pc-linux-gnu
@@ -1386,8 +1431,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.2.1 20260810 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/16/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9dbcb.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccvF21L1.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/16/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_06376.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccYWYGKW.s
         GNU C++20 (GCC) version 16.2.1 20260810 (x86_64-pc-linux-gnu)
         	compiled by GNU C version 16.2.1 20260810, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.28-GMP
         
@@ -1404,14 +1449,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: 4e9ac8b201f4ca740be09d0c7a39f82f
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/'
-         as -v --64 -o CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccvF21L1.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/'
+         as -v --64 -o CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccYWYGKW.s
         GNU assembler version 2.47 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.47
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_9dbcb
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9dbcb.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_06376
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06376.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper
@@ -1422,14 +1467,14 @@ events:
         gcc version 16.2.1 20260810 (GCC) 
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dbcb' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dbcb.'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/16/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06376' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06376.'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/16/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o
         collect2 version 16.2.1 20260810
-        /usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o
+        /usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o
         GNU ld (GNU Binutils) 2.47
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dbcb' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dbcb.'
-        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9dbcb
-        make[1]: Leaving directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06376' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06376.'
+        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_06376
+        make[1]: Leaving directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm'
         
       exitCode: 0
   -
@@ -1468,13 +1513,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u']
+        ignore line: [Change Dir: '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9dbcb/fast]
-        ignore line: [/usr/bin/make  -f CMakeFiles/cmTC_9dbcb.dir/build.make CMakeFiles/cmTC_9dbcb.dir/build]
-        ignore line: [make[1]: Entering directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-AJpS6u']
-        ignore line: [Building CXX object CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_06376/fast]
+        ignore line: [/usr/bin/make  -f CMakeFiles/cmTC_06376.dir/build.make CMakeFiles/cmTC_06376.dir/build]
+        ignore line: [make[1]: Entering directory '/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/CMakeScratch/TryCompile-UJ7VOm']
+        ignore line: [Building CXX object CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [Target: x86_64-pc-linux-gnu]
@@ -1482,8 +1527,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.2.1 20260810 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/']
-        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/16/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9dbcb.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccvF21L1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/']
+        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/16/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_06376.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccYWYGKW.s]
         ignore line: [GNU C++20 (GCC) version 16.2.1 20260810 (x86_64-pc-linux-gnu)]
         ignore line: [	compiled by GNU C version 16.2.1 20260810  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.28-GMP]
         ignore line: []
@@ -1500,14 +1545,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 4e9ac8b201f4ca740be09d0c7a39f82f]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccvF21L1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccYWYGKW.s]
         ignore line: [GNU assembler version 2.47 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.47]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_9dbcb]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9dbcb.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_06376]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06376.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper]
@@ -1518,13 +1563,13 @@ events:
         ignore line: [gcc version 16.2.1 20260810 (GCC) ]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/16/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9dbcb' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9dbcb.']
-        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/16/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06376' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_06376.']
+        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/16/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccW81we9.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cciPYGHg.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-latomic_asneeded] ==> ignore
@@ -1540,7 +1585,7 @@ events:
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-pie] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_9dbcb] ==> ignore
+          arg [cmTC_06376] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o]
@@ -1552,7 +1597,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -1564,9 +1609,9 @@ events:
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o]
         ignore line: [collect2 version 16.2.1 20260810]
-        link line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o] ==> linker [/usr/bin/ld]
-        link line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o] ==> linker architecture flags [-m;elf]
-        ignore line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/ccW81we9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9dbcb /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9dbcb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o]
+        link line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o] ==> linker [/usr/bin/ld]
+        link line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o] ==> linker architecture flags [-m;elf]
+        ignore line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/16/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/16/lto-wrapper -plugin-opt=-fresolution=/tmp/cciPYGHg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-latomic_asneeded -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_06376 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/16 -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_06376.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -latomic_asneeded -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o]
         linker tool for 'CXX': /usr/bin/ld -m;elf
         collapse obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o] ==> [/usr/lib/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o] ==> [/usr/lib/crti.o]
@@ -1594,113 +1639,4 @@ events:
     message: |
       Running the CXX compiler's linker: "/usr/bin/ld" "-v"
       GNU ld (GNU Binutils) 2.47
-...
-
----
-events:
-  -
-    kind: "find-v1"
-    backtrace:
-      - "CMakeLists.txt:10 (find_program)"
-    mode: "program"
-    variable: "CARGO_EXECUTABLE"
-    description: "Path to a program."
-    settings:
-      SearchFramework: "NEVER"
-      SearchAppBundle: "NEVER"
-      CMAKE_FIND_USE_CMAKE_PATH: true
-      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-      CMAKE_FIND_USE_INSTALL_PREFIX: true
-    names:
-      - "cargo"
-    candidate_directories:
-      - "/home/lilarchie/.cargo/bin/"
-      - "/home/lilarchie/.local/bin/"
-      - "/home/lilarchie/bin/"
-      - "/usr/local/bin/"
-      - "/home/hypr/.local/bin/"
-      - "/home/hypr/.cargo/bin/"
-      - "/home/lilarchie/.bun/bin/"
-      - "/home/hypr/.spicetify/"
-      - "/home/lilarchie/.local/share/nvim/mason/bin/"
-      - "/usr/local/sbin/"
-      - "/usr/bin/"
-      - "/usr/lib/jvm/default/bin/"
-      - "/usr/bin/site_perl/"
-      - "/usr/bin/vendor_perl/"
-      - "/usr/bin/core_perl/"
-      - "/home/lilarchie/.local/share/pnpm/bin/"
-      - "/usr/lib/rustup/bin/"
-      - "/usr/local/bin/"
-      - "/usr/local/sbin/"
-      - "/usr/local/"
-      - "/usr/bin/"
-      - "/usr/sbin/"
-      - "/usr/"
-      - "/bin/"
-      - "/sbin/"
-      - "/usr/X11R6/bin/"
-      - "/usr/X11R6/sbin/"
-      - "/usr/X11R6/"
-      - "/usr/pkg/bin/"
-      - "/usr/pkg/sbin/"
-      - "/usr/pkg/"
-      - "/opt/bin/"
-      - "/opt/sbin/"
-      - "/opt/"
-    searched_directories:
-      - "/home/lilarchie/.cargo/bin/cargo"
-      - "/home/lilarchie/.local/bin/cargo"
-      - "/home/lilarchie/bin/cargo"
-      - "/usr/local/bin/cargo"
-      - "/home/hypr/.local/bin/cargo"
-      - "/home/hypr/.cargo/bin/cargo"
-      - "/home/lilarchie/.bun/bin/cargo"
-      - "/home/hypr/.spicetify/cargo"
-      - "/home/lilarchie/.local/share/nvim/mason/bin/cargo"
-      - "/usr/local/sbin/cargo"
-    found: "/usr/bin/cargo"
-    search_context:
-      ENV{PATH}:
-        - "/home/lilarchie/.cargo/bin"
-        - "/home/lilarchie/.local/bin"
-        - "/home/lilarchie/bin"
-        - "/usr/local/bin"
-        - "/home/hypr/.local/bin"
-        - "/home/hypr/.cargo/bin"
-        - "/home/lilarchie/.bun/bin"
-        - "/home/hypr/.spicetify"
-        - "/home/lilarchie/.local/share/nvim/mason/bin"
-        - "/home/lilarchie/.cargo/bin"
-        - "/home/lilarchie/.local/bin"
-        - "/home/lilarchie/bin"
-        - "/usr/local/bin"
-        - "/home/hypr/.local/bin"
-        - "/home/hypr/.cargo/bin"
-        - "/home/lilarchie/.bun/bin"
-        - "/home/hypr/.spicetify"
-        - "/home/lilarchie/.local/bin"
-        - "/usr/local/sbin"
-        - "/usr/local/bin"
-        - "/usr/bin"
-        - "/usr/lib/jvm/default/bin"
-        - "/usr/bin/site_perl"
-        - "/usr/bin/vendor_perl"
-        - "/usr/bin/core_perl"
-        - "/home/lilarchie/.local/share/pnpm/bin"
-        - "/usr/lib/rustup/bin"
-        - "/home/lilarchie/.local/bin"
-        - "/home/lilarchie/.local/bin"
-      CMAKE_INSTALL_PREFIX: "/usr/local"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "/usr/local"
-        - "/usr"
-        - "/"
-        - "/usr"
-        - "/usr/local"
-        - "/usr/X11R6"
-        - "/usr/pkg"
-        - "/opt"
 ...

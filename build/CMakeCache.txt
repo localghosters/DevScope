@@ -15,9 +15,6 @@
 ########################
 
 //Path to a program.
-CARGO_EXECUTABLE:FILEPATH=/usr/bin/cargo
-
-//Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line
 
 //Path to a program.
