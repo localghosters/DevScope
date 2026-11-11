@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+aaf5312fe0fe0989d2383fa44553ee0e rust/release/libdevscope_rust.a

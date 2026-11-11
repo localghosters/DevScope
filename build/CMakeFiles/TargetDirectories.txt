@@ -1,0 +1,3 @@
+/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/devscope_cpp.dir
+/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/edit_cache.dir
+/home/lilarchie/Documents/projects/Cpp/DevScope/build/CMakeFiles/rebuild_cache.dir

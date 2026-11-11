@@ -1,4 +1,4 @@
-#include "system_info.hpp"
+#include "../include/system_info.hpp"
 
 #include <cstdlib>
 #include <thread>
@@ -37,7 +37,7 @@ std::string detect_arch() {
 
 // A tool counts as available if "<tool> --version" runs and exits with 0.
 // Output is discarded; only the exit code matters.
-bool is_tool_available(const std::string& tool) {
+bool is_tool_available(const std::string &tool) {
 #if defined(_WIN32)
     const std::string command = tool + " --version > NUL 2>&1";
 #else
@@ -46,18 +46,18 @@ bool is_tool_available(const std::string& tool) {
     return std::system(command.c_str()) == 0;
 }
 
-}  // namespace
+} // namespace
 
 SystemInfo collect_system_info() {
     SystemInfo info;
     info.os_name = detect_os();
     info.cpu_arch = detect_arch();
-    info.cpu_cores = std::thread::hardware_concurrency();  // 0 if unknown
+    info.cpu_cores = std::thread::hardware_concurrency(); // 0 if unknown
 
-    for (const char* tool : {"g++", "clang++", "cmake", "git"}) {
+    for (const char *tool : {"g++", "clang++", "cmake", "git"}) {
         info.tools.push_back({tool, is_tool_available(tool)});
     }
     return info;
 }
 
-}  // namespace devscope
+} // namespace devscope
